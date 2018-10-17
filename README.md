@@ -5,7 +5,7 @@ This is a maven project. After download run "mvn clean install". Once you build 
 In order to use this project correctly you must need SSL configured tomcat.
 
 Follow my blog post to read more information.
-https://techeye7.wordpress.com/2017/10/06/cookie-protection-for-avoid-session-hijacking/
+https://deertek.wordpress.com/2017/10/06/cookie-protection-for-avoid-session-hijacking/
 
 Login page 
   Username- admin
